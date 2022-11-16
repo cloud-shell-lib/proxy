@@ -5,7 +5,7 @@ export http_proxy config
 ## Install
 
 ```
-curl -s https://xaoxuu.com/install | sh -s proxy.sh
+curl -s https://sh.xaox.cc/install | bash -s proxy.sh
 ```
 
 ## Usage
