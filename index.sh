@@ -2,9 +2,9 @@
 # 这个脚本负责下载和安装的逻辑
 
 # function lib
-lib='https://sh.xaox.cc/lib/v1'
+lib='https://sh.xaox.cc/lib/v3'
 # repository name
-REPO='proxy.sh'
+REPO='proxy'
 # clint file name
 TARGET='proxy.sh'
 # clint file name
